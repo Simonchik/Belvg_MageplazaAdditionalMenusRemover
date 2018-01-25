@@ -1,0 +1,9 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <remove id="Mageplaza_Core::menu" />
+        <remove id="Mageplaza_Core::documentation" />
+        <remove id="Mageplaza_Core::userguide" />
+        <remove id="Mageplaza_Core::partners" />
+        <remove id="Mageplaza_GoogleAnalytics::googleanalytics" />
+    </menu>
+</config>
